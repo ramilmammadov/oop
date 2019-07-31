@@ -1,4 +1,4 @@
-package az.matrix.abstraction.example;
+package com.mycompany.abstraction.example;
 
 public class MongoDatabase extends AbstractDatabase   {
 

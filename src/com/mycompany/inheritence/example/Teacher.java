@@ -1,4 +1,4 @@
-package az.matrix.inheritence.example;
+package com.mycompany.inheritence.example;
 
 public class Teacher extends Employee {
 

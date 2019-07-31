@@ -1,4 +1,4 @@
-package az.matrix.encaptulation.example;
+package com.mycompany.encaptulation.example;
 
 public class Student {
     /*

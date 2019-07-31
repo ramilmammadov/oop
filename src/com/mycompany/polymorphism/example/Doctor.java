@@ -1,4 +1,4 @@
-package az.matrix.polymorphism.example;
+package com.mycompany.polymorphism.example;
 
 public class Doctor extends Person {
 
